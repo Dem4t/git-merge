@@ -1,0 +1,8 @@
+d14cd16 Revert "oops: add junk file"
+2d50514 oops: add junk file
+cb43305 merge feature/title: keep both intents
+824c457 title: 8 weeks
+74ee5b8 title: 8 weeks
+3d3845b title: building with AI
+5c92ff6 readme: base title
+d052fbb Initial commit
